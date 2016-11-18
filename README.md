@@ -21,36 +21,6 @@ Contact Form 7 Multi-Step for WordPress (Lite version)
 <li>And more...</li>
 </ul>
 
-<a href="http://codecanyon.net/item/contact-form-7-multistep/15232990?license=regular&open_purchase_for_item_id=15232990&purchasable=source&ref=NinjaTeam"><img src="http://demo.ninjateam.org/data/notify-me/get-it-now-btn.png" alt="Get Contact Form 7 Multi-Step Now"></a><br><br>
-
-<img src="http://demo.ninjateam.org/ninja-admin-role/data/review.png" alt="Give Us a Review"><br>
-
-<table>
-<tr>
-<td>
-<a href="http://codecanyon.net/user/NinjaTeam/follow"><img src="http://demo.ninjateam.org/data/follow-me-on-envato.png" alt="Follow me on Envato"></a>
-</td>
-
-<td>  </td>
-
-<td>
-<a href="https://twitter.com/NinjaTeamWP"><img src="http://demo.ninjateam.org/data/follow-me-on-twitter.png" alt="Follow me on Twitter"></a>
-</td>
-
-<td>  </td>
-
-<td>
-<a href="https://www.facebook.com/ninjateam.org/"><img src="http://demo.ninjateam.org/data/follow-me-on-facebook.png" alt="Follow me on Facebook"></a>
-</td>
-
-<td>  </td>
-
-<td>
-<a href="http://ninjateam.org/email-me-free-plugin-monthly"><img src="http://demo.ninjateam.org/data/email-me-free-plugin.png" alt="Email me FREE plugin monthly"></a>
-</td>
-</tr>
-</table>
-
 <h3 id="item-description__changelog">CHANGELOG</h3>
 
 <pre>
