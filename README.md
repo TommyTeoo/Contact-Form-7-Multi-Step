@@ -1,5 +1,7 @@
 # Contact-Form-7-Multi-Step (Lite version)
 
+<strong>We will update the code soon. Please follow us to get news about free WordPress plugin :)
+
 <strong>Are you using contact Form 7? This is a nice plugin for you!</strong>
 
 <p><strong>Contact Form 7 Multi-Step</strong> help you can add multi-step for your form. This is the best way if you form is long and want to display simple for users.</p>
