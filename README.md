@@ -1,5 +1,4 @@
-# Contact-Form-7-Multi-Step
-Contact Form 7 Multi-Step for WordPress (Lite version)
+# Contact-Form-7-Multi-Step (Lite version)
 
 <strong>Are you using contact Form 7? This is a nice plugin for you!</strong>
 
