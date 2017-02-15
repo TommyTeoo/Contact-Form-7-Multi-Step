@@ -28,6 +28,18 @@
 <h3 id="item-description__changelog">CHANGELOG</h3>
 
 <pre>
+02/13/2017: (version 1.9.8)
+- Change last button's title in admin panel
+
+01/02/2017: (version 1.9.7)
+- Remove wpcf7_add_shortcode
+
+25/01/2017: (version 1.9.6)
+- Added some js functions, save user’s information every step (work with “Contact Form 7 Database“)
+
+20/09/2016: (version 1.9.5)
+- Fixed: Fix js bug with some hosts.
+
 31/10/2016: (version 1.9.5)
 - Fixed: Fix js bug with some hosts.
 
