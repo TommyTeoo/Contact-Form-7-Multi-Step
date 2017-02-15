@@ -6,9 +6,13 @@
 
 <p><strong>Contact Form 7 Multi-Step</strong> help you can add multi-step for your form. This is the best way if you form is long and want to display simple for users.</p>
 
-<strong>Live Demo:</strong> http://ninjateam.org/contact-form-7-multi-step
+<h3>LIVE DEMO</h3>
+http://ninjateam.org/contact-form-7-multi-step
 <br><br>
 <a href="https://ninja.ticksy.com/"><img src="https://ninjateam.org/demo/data/support.png" alt="NinjaTeam Support Center"></a>
+
+<h3>DOWNLOAD</h3>
+<strong>https://wordpress.org/plugins/cf7-multi-step/</strong>
 
 <h3>FEATURED</h3>
 <ul>
@@ -21,9 +25,6 @@
 <li>Easy to use</li>
 <li>And more...</li>
 </ul>
-
-<h3>DOWNLOAD</h3>
-<strong>https://wordpress.org/plugins/cf7-multi-step/</strong>
 
 <h3 id="item-description__changelog">CHANGELOG</h3>
 
