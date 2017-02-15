@@ -1,4 +1,4 @@
-# Contact-Form-7-Multi-Step (Lite version)
+# Contact-Form-7-Multi-Step
 
 <strong>We will update the code soon. Please follow us to get news about free WordPress plugin :)
 
@@ -21,6 +21,9 @@
 <li>Easy to use</li>
 <li>And more...</li>
 </ul>
+
+<h3>DOWNLOAD</h3>
+<strong>https://wordpress.org/plugins/cf7-multi-step/</strong>
 
 <h3 id="item-description__changelog">CHANGELOG</h3>
 
