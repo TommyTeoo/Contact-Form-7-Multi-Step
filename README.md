@@ -7,8 +7,7 @@
 <p><strong>Contact Form 7 Multi-Step</strong> help you can add multi-step for your form. This is the best way if you form is long and want to display simple for users.</p>
 
 <h3>LIVE DEMO</h3>
-http://ninjateam.org/contact-form-7-multi-step
-<br><br>
+<strong>http://ninjateam.org/contact-form-7-multi-step</strong>
 
 <h3>DOWNLOAD</h3>
 <strong>https://wordpress.org/plugins/cf7-multi-step/</strong>
