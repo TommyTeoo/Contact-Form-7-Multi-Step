@@ -1,0 +1,8 @@
+.cf7mls-table .wp-picker-holder {
+  position: absolute;
+  z-index: 100;
+}
+#cf7mls-settings-panel .wp-picker-holder {
+  position: absolute;
+  z-index: 100;
+}

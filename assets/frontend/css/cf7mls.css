@@ -1,0 +1,116 @@
+form.wpcf7-form fieldset.fieldset-cf7mls:not(:first-of-type) {
+  height: 0;
+  overflow: hidden;
+  opacity: 0;
+  visibility: hidden;
+}
+.cf7mls_next.action-button, .cf7mls_back.action-button {
+    background: #27ae60 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 1px;
+    color: white;
+    cursor: pointer;
+    font-weight: bold;
+    margin: 10px 5px;
+    padding: 10px 5px;
+    min-width: 100px;
+    position: relative;
+}
+/*
+ * Animation
+*/
+button.cf7mls_btn:not(.disabled):before {
+  content: '';
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  margin-top: -11px;
+  width: 20px;
+  height: 20px;
+  border: 4px solid;
+  border-left-color: transparent;
+  border-radius: 50%;
+  filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+  opacity: 0;
+  -moz-transition-duration: 0.5s;
+  -o-transition-duration: 0.5s;
+  -webkit-transition-duration: 0.5s;
+  transition-duration: 0.5s;
+  -moz-transition-property: opacity;
+  -o-transition-property: opacity;
+  -webkit-transition-property: opacity;
+  transition-property: opacity;
+  -moz-animation-duration: 1s;
+  -webkit-animation-duration: 1s;
+  animation-duration: 1s;
+  -moz-animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  animation-iteration-count: infinite;
+  -moz-animation-name: rotate;
+  -webkit-animation-name: rotate;
+  animation-name: rotate;
+  -moz-animation-timing-function: linear;
+  -webkit-animation-timing-function: linear;
+  animation-timing-function: linear;
+}
+button.cf7mls_btn:not(.disabled):after {
+  content: '';
+  display: inline-block;
+  height: 100%;
+  width: 0px;
+  -moz-transition-delay: 0.5s;
+  -o-transition-delay: 0.5s;
+  -webkit-transition-delay: 0.5s;
+  transition-delay: 0.5s;
+  -moz-transition-duration: 0.75s;
+  -o-transition-duration: 0.75s;
+  -webkit-transition-duration: 0.75s;
+  transition-duration: 0.75s;
+  -moz-transition-property: width;
+  -o-transition-property: width;
+  -webkit-transition-property: width;
+  transition-property: width;
+}
+button.cf7mls_btn:not(.disabled).sending {
+  pointer-events: none;
+  cursor: not-allowed;
+}
+button.cf7mls_btn:not(.disabled).sending:not(.expand) {
+  text-align: left;
+}
+button.cf7mls_btn:not(.disabled).sending:before {
+  /*
+  -moz-transition-delay: 0.5s;
+  -o-transition-delay: 0.5s;
+  -webkit-transition-delay: 0.5s;
+  transition-delay: 0.5s;
+  */
+  -moz-transition-duration: 1s;
+  -o-transition-duration: 1s;
+  -webkit-transition-duration: 1s;
+  transition-duration: 1s;
+  filter: progid:DXImageTransform.Microsoft.Alpha(enabled=false);
+  opacity: 1;
+}
+button.cf7mls_btn:not(.disabled).sending:after {
+  -moz-transition-delay: 0s;
+  -o-transition-delay: 0s;
+  -webkit-transition-delay: 0s;
+  transition-delay: 0s;
+  width: 20px;
+}
+
+@keyframes rotate {
+  0% {
+    -moz-transform: rotate(0deg);
+    -ms-transform: rotate(0deg);
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
