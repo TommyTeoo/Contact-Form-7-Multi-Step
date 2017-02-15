@@ -1,6 +1,6 @@
 # Contact-Form-7-Multi-Step
 
-<img src="https://ps.w.org/cf7-multi-step/assets/banner-772x250.png" alt="Contact-Form-7-Multi-Step">
+<a href="https://wordpress.org/plugins/cf7-multi-step/"><img src="https://ps.w.org/cf7-multi-step/assets/banner-772x250.png" alt="Contact-Form-7-Multi-Step"></a>
 
 <strong>We will update the code soon. Please follow us to get news about free WordPress plugin :)
 
