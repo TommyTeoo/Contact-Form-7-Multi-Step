@@ -1,5 +1,7 @@
 # Contact-Form-7-Multi-Step
 
+img src="https://ps.w.org/cf7-multi-step/assets/banner-772x250.png" alt="Contact-Form-7-Multi-Step">
+
 <strong>We will update the code soon. Please follow us to get news about free WordPress plugin :)
 
 <strong>Are you using contact Form 7? This is a nice plugin for you!</strong>
@@ -9,7 +11,6 @@
 <h3>LIVE DEMO</h3>
 http://ninjateam.org/contact-form-7-multi-step
 <br><br>
-<a href="https://ninja.ticksy.com/"><img src="https://ninjateam.org/demo/data/support.png" alt="NinjaTeam Support Center"></a>
 
 <h3>DOWNLOAD</h3>
 <strong>https://wordpress.org/plugins/cf7-multi-step/</strong>
@@ -25,6 +26,8 @@ http://ninjateam.org/contact-form-7-multi-step
 <li>Easy to use</li>
 <li>And more...</li>
 </ul>
+
+<a href="https://ninja.ticksy.com/"><img src="https://ninjateam.org/demo/data/support.png" alt="NinjaTeam Support Center"></a>
 
 <h3 id="item-description__changelog">CHANGELOG</h3>
 
