@@ -1,7 +1,7 @@
 <?php
 /**
 Plugin Name: Contact Form 7 Multi Step
-Plugin URI: http://ninjateam.org
+Plugin URI: https://ninjateam.org/contact-form-7-multi-step/
 Description: Contact Form 7 Multi Step is a plugin that allows you create multi steps on only one form.
 Version: 1.0
 Author: NinjaTeam
